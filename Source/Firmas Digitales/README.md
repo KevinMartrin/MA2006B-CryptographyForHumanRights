@@ -1,6 +1,3 @@
-# [DEPRECATED].
-This guide is deprecated. Using bash is not recommended for creating certificates anymore, and the process is now simplified with python scripts.
-
 # Step 0: Prior Setup
 This guide assumes you have OpenSSL installed on your system. If not, please install it first. If you have Git, you can use Git Bash which already includes OpenSSL.
 
